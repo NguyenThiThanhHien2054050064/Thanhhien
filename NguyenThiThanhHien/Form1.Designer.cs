@@ -91,6 +91,7 @@
             // 
             // button1
             // 
+            this.button1.ForeColor = System.Drawing.Color.BlueViolet;
             this.button1.Location = new System.Drawing.Point(122, 203);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
@@ -101,6 +102,7 @@
             // 
             // button2
             // 
+            this.button2.ForeColor = System.Drawing.Color.BlueViolet;
             this.button2.Location = new System.Drawing.Point(321, 203);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
